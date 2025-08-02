@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+tensorflow
+keras
+matplotlib
+seaborn
+scikit-learn
+jupyter               # if you're using .ipynb files
+
+
+After placing this file in your project root, run:
+
+pip install -r requirements.txt
