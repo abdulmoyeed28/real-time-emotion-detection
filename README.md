@@ -28,17 +28,19 @@ Real-Time-Emotion-Detection/
 
 ## 🚀 Getting Started
 
-## 1. Clone the Repo
+### 1. Clone the Repo
+```bash
 git clone https://github.com/abdulmoyeed28/real-time-emotion-detection.git
 cd real-time-emotion-detection
+```
 
 ## 2. Install Dependencies
 pip install -r requirements.txt
 
 ## 3. Download Dataset (Manual Step)
-echo "👉 Please download the FER2013 dataset manually from:"
-echo "   https://www.kaggle.com/datasets/msambare/fer2013"
-echo "🔽 Then place the extracted files into the Dataset/ folder."
+👉 Please download the FER2013 dataset manually from:  
+https://www.kaggle.com/datasets/msambare/fer2013  
+🔽 Then place the extracted files into the `Dataset/` folder.
 
 ## 4. Run the Project
 python VideoTester.py
